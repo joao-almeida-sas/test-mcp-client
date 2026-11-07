@@ -1,0 +1,9 @@
+{
+  "client_id": "https://joao-almeida-sas.github.io/test-mcp-client/client-metadata.json",
+  "client_name": "Local Customer AI Agent",
+  "application_type": "native",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "redirect_uris": ["http://localhost:3333/callback"],
+  "token_endpoint_auth_method": "none"
+}
